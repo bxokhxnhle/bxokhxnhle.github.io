@@ -1,3 +1,8 @@
-h1 {
-    color: blue 
+:root {
+    /* MacBook Pro - 1 */
+position: relative;
+width: 1440px;
+height: 900px;
+
+background: #FFD8BE;
 }
