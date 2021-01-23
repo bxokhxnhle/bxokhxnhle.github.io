@@ -1,8 +1,13 @@
-:root {
-    /* MacBook Pro - 1 */
-position: relative;
-width: 1440px;
-height: 900px;
+h1{
+    position: absolute;
+    width: 997px;
+    height: 50px;
+    left: 222px;
+    top: 425px;
 
-background: #FFD8BE;
+    font-family: iCiel Brawls;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 50px;
 }
